@@ -1,1 +1,1 @@
-obj-y := 2016510031.o
+obj-y := kernel.o
